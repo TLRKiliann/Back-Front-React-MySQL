@@ -1,15 +1,27 @@
 # Back-Front-React-MySQL
 Manage MySQL Database from remote React
 
-## 2 folders
+## Installation of client & server
 
-# Client
+**client**
 
--npm install axios
+- npx create-react-app client
 
-# Server
+**server**
 
+- mkdir server
+- cd server
 - npm init -y
+- touch index.js
+
+# PACKAGES
+
+## client
+
+- npm install axios
+
+## server
+
 - npm install express
 - npm install mysql
 - npm install cors
