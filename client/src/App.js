@@ -69,7 +69,7 @@ function App() {
   };
 
   const deleteDataMember = (order_id) => {
-    axios.delete(`http://localhost:3001/delete/:${order_id}`).then(
+    axios.delete(`http://localhost:3001/delete/${order_id}`).then(
       (response) => {
         setListMembers(
           listMembers.filter((val) => {
