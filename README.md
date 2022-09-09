@@ -14,13 +14,13 @@ Manage MySQL Database from remote React
 - npm init -y
 - touch index.js
 
-# PACKAGES
+## Packages
 
-## client
+**client**
 
 - npm install axios
 
-## server
+**server**
 
 - npm install express
 - npm install mysql
