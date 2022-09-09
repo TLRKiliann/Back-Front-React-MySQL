@@ -1,7 +1,7 @@
 # Back-Front-React-MySQL
 Manage MySQL Database from remote React
 
-## Installation of client & server
+## Installation for client & server
 
 **client**
 
